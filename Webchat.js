@@ -1,5 +1,5 @@
 function addUser(){
     username = document.getElementById("username").value;
     localStorage.setItem("username",username);
-    window.location = "LetschatHome.html"
+    window.location = "WebchatHome.html"
 }
